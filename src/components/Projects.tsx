@@ -322,7 +322,7 @@ const Projects = () => {
               Let's Collaborate
             </button>
             <a
-              href="https://github.com/Bish wa-cyber"
+              href="https://github.com/Bishwa-cyber"
               target="_blank"
               rel="noopener noreferrer"
               className="px-8 py-3 glass-effect rounded-full font-semibold text-white hover:bg-white/10 transition-all duration-300 border border-purple-500/30"
